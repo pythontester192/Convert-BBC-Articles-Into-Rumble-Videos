@@ -11,4 +11,3 @@
  For Scraping BBC Articles, run this command: python bbc.py<br>
  For Auto-Upload Rumble Videos, run this command: python rumble.py<br>
  Watch this full tutorial on how to use this bot step by step<br>
-    >coming soon!

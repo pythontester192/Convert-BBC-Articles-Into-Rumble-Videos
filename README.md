@@ -1,5 +1,5 @@
 # Convert-BBC-Articles-Into-Rumble-Videos
- Scrape The Latest BBC Articles Using Google Search, Convert Them Into Videos, & Automatically Upload Them Using Python.
+ Scrape The Latest BBC Articles Using Google Search, Convert Them Into Videos, & Automatically Upload Them To Rumble.com Using Python.
 # Usage
  Search for news articles from BBC news through google search engine.<br>
  You can pick how many pages you would like to fetch from.<br>
